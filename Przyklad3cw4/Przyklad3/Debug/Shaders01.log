@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\uczelnia\projekty\c sem5\przyklad3cw4\przyklad3\main.cpp(123): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+d:\uczelnia\projekty\c sem5\przyklad3cw4\przyklad3\main.cpp(185): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Shaders01.vcxproj -> D:\Uczelnia\Projekty\C SEM5\Przyklad3cw4\Przyklad3\Debug\Shaders01.exe

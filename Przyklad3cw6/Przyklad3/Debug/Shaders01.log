@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\lukas\downloads\przyklad3\przyklad3\main.cpp(186): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Shaders01.vcxproj -> C:\Users\lukas\Downloads\Przyklad3\Przyklad3\Debug\Shaders01.exe
