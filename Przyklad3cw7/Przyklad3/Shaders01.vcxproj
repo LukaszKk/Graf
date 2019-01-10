@@ -80,7 +80,10 @@
     <ClCompile Include="tekstura.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="fragment_shader.glsl" />
+    <None Include="fragment_shader0.glsl" />
+    <None Include="fragment_shader1.glsl" />
+    <None Include="fragment_shader2.glsl" />
+    <None Include="fragment_shader3.glsl" />
     <None Include="lamp_fshader.glsl" />
     <None Include="lamp_vshader.glsl" />
     <None Include="vertex_shader.glsl" />
@@ -89,6 +92,13 @@
     <ClInclude Include="GL\glew.h" />
     <ClInclude Include="shaderLoader.h" />
     <ClInclude Include="tekstura.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="grass.bmp" />
+    <Image Include="stone.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="sphere.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

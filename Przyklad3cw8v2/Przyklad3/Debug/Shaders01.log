@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\uczelnia\projekty\c sem5\przyklad3cw8v2\przyklad3\main.cpp(188): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\uczelnia\projekty\c sem5\przyklad3cw8v2\przyklad3\main.cpp(189): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Shaders01.vcxproj -> D:\Uczelnia\Projekty\C SEM5\Przyklad3cw8v2\Przyklad3\Debug\Shaders01.exe

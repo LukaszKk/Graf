@@ -1,8 +1,0 @@
-﻿  main.cpp
-d:\uczelnia\projekty\c sem5\przyklad1 — kopia\shaders01\main.cpp(66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-d:\uczelnia\projekty\c sem5\przyklad1 — kopia\shaders01\main.cpp(67): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-d:\uczelnia\projekty\c sem5\przyklad1 — kopia\shaders01\main.cpp(76): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-d:\uczelnia\projekty\c sem5\przyklad1 — kopia\shaders01\main.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-  shadersLoader.cpp
-  Generating Code...
-  Shaders01.vcxproj -> D:\Uczelnia\Projekty\C SEM5\Przyklad1 — kopia\Shaders01\Debug\Shaders01.exe

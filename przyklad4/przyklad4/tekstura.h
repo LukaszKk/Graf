@@ -2,7 +2,7 @@
 #include <windows.h>
 
 
-#include "gl/glew.h"
+#include "GL/glew.h"
 #include "GL/freeglut.h"
 #include <gl\gl.h> 
 #include <stdio.h>
