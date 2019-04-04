@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\uczelnia\projekty\c sem5\szablonokomentowany\przyklad3\main.cpp(302): warning C4101: 'MVP_id': unreferenced local variable
+  shadersLoader.cpp
+  tekstura.cpp
+  Generating Code...
+  Shaders01.vcxproj -> D:\Uczelnia\Projekty\C SEM5\SzablonOkomentowany\Przyklad3\Debug\Shaders01.exe

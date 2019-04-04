@@ -1,6 +1,0 @@
-﻿  main.cpp
-d:\uczelnia\projekty\c sem5\przyklad3cw6\przyklad3\main.cpp(186): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-  shadersLoader.cpp
-  tekstura.cpp
-  Generating Code...
-  Shaders01.vcxproj -> D:\Uczelnia\Projekty\C SEM5\Przyklad3cw6\Przyklad3\Debug\Shaders01.exe
